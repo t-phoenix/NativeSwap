@@ -32,7 +32,7 @@
 - Deposit/Withdraw funds in/from pools
 - Dashboard to show protocol pools information
 
-Future
+## Future
 - Website and web dapp
 - Research on more features like Liquidity Farming, Staking Rewards
 - Decide on Tokenomics
